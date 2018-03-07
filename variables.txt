@@ -1,0 +1,7 @@
+var a string = "hello"
+var i, z, int = 2, 3
+var h = true
+
+:= // can be used as a shorthand for declaring and initializing variables
+
+p := "hi"

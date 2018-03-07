@@ -1,6 +1,6 @@
 # golang
 ### Installation
-1. Download the specified version based on your operating system [go] (https://golang.org/).
+1. Download the specified version based on your operating system [go](https://golang.org/).
 2. Run each file from command line i.e ```go run hello.go```
 
 ### Details
@@ -12,3 +12,6 @@ These files for the sake of learning:
 4. Additional Types in Go
 5. Methods, Interfaces, and Concurrency in Go
 6. Practice: Working with Slices in Go
+
+#### function 
+<img src=./screenshots/function.png width=50% />
